@@ -52,7 +52,7 @@ A Chrome and Firefox extension that will automatically handle the advisory warni
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPLv3 License](LICENSE).
 
 ## Contributing
 
