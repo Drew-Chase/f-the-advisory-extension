@@ -12,7 +12,7 @@ A Chrome and Firefox extension that will automatically handle the advisory warni
 
 1. Download the extension for your browser:
     - [Chrome Web Store]()
-    - [Firefox Add-ons Store]()
+    - [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/f-the-advisory/)
 2. Install the extension and enable it in your browser settings.
 3. Enjoy uninterrupted playback on YouTube Music.
 
